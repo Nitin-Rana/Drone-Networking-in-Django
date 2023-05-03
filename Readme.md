@@ -11,7 +11,7 @@
 ### For Running on your system
 1. Clone the Github Repo
 ```
-git clone https://github.com/snehilms/Drone_Networking.git
+git clone https://github.com/Nitin-Rana/drone-system.git
 ```
 2.Run below command if you want to run python virtual environment
 ```
